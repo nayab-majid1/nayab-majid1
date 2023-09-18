@@ -17,5 +17,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nayab-majid1&show_icons=true&locale=en&layout=compact" alt="nayab-majid1" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nayab-majid1&show_icons=true&locale=en" alt="nayab-majid1" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nayab-majid1&" alt="nayab-majid1" /></p>
